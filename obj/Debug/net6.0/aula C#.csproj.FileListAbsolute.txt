@@ -1,0 +1,15 @@
+C:\Users\ALUNO\Desktop\aula C#\bin\Debug\net6.0\aula C#.exe
+C:\Users\ALUNO\Desktop\aula C#\bin\Debug\net6.0\aula C#.deps.json
+C:\Users\ALUNO\Desktop\aula C#\bin\Debug\net6.0\aula C#.runtimeconfig.json
+C:\Users\ALUNO\Desktop\aula C#\bin\Debug\net6.0\aula C#.dll
+C:\Users\ALUNO\Desktop\aula C#\bin\Debug\net6.0\aula C#.pdb
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.AssemblyInfo.cs
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.dll
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\refint\aula C#.dll
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.pdb
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\aula C#.genruntimeconfig.cache
+C:\Users\ALUNO\Desktop\aula C#\obj\Debug\net6.0\ref\aula C#.dll
